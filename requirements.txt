@@ -1,0 +1,27 @@
+# Python Environment
+ipykernel
+python-dotenv
+
+# Langchain
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain_chroma
+langchain_groq
+langchain_huggingface
+
+# Loaders and Splitters
+pypdf
+PyMuPDF
+bs4
+arxiv
+wikipedia
+
+# Vector Datastore
+chromadb
+# chroma-cumber # To dump and load chroma dump
+
+# Visualization
+streamlit
+streamlit_float
